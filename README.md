@@ -3,7 +3,7 @@ is a great platform that helps you run python code without requiring any local s
 
 
 
-## Use the direct link or copy code to your own notebook
+## Use the direct link or copy code to your own colab notebook
 https://colab.research.google.com/github/elbaza1/PySparkGoogleCollab/blob/master/SetupSparkStandaloneCluster.ipynb
 
 ## PySparkGoogleCollab
